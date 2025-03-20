@@ -8,9 +8,9 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use Browser**
 
-Simply visit the [Project](https://preview--infocream.lovable.app) and start prompting.
+Simply visit the [Project](https://preview--infocream.lovable.app)
 
 Changes made via Lovable will be committed automatically to this repo.
 
