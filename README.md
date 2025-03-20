@@ -1,61 +1,72 @@
-# Welcome to your Web project
+# 🌐 Welcome to Infocream
 
-## Project info
+## 📌 Project Overview  
 
-**URL**: https://preview--infocream.lovable.app
+Infocream is a web-based tool designed for extracting and querying information from provided URLs. With an intuitive UI and seamless performance, it allows users to input web links, extract their content, and ask context-aware questions, delivering precise and relevant answers.  
 
-## How can I edit this code?
+🔗 **Live Project:** [Infocream](https://preview--infocream.lovable.app)
 
-There are several ways of editing your application.
+---
 
-**Use Browser**
+## 🚀 Getting Started  
 
-Simply visit the [Project](https://preview--infocream.lovable.app)
+You can run and modify this project in multiple ways, depending on your workflow preferences.  
 
-Changes made via Lovable will be committed automatically to this repo.
+### 1️⃣ Running Locally (VS Code Preferred)  
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+To work locally, ensure you have Node.js installed, then follow these steps:  
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate to the project directory
+cd infocream
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
 ```
+## 2️⃣ Editing Directly on GitHub
 
-**Edit a file directly in GitHub**
+1. Navigate to the repository.  
+2. Select the file you wish to modify.  
+3. Click the ✏️ **"Edit"** button.  
+4. Make your changes and commit them directly.  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 3️⃣ Using GitHub Codespaces
 
-**Use GitHub Codespaces**
+For an online development environment:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Open the repository on GitHub.  
+2. Click the **"Code"** button and select **"Codespaces"**.  
+3. Launch a new Codespace instance.  
+4. Edit and commit changes directly.  
 
-## What technologies are used for this project?
+---
 
-This project is built with .
+## 🛠️ Tech Stack  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+This project leverages modern web technologies for optimal performance and scalability:
+
+- ⚡ **Vite** - Lightning-fast build tool.  
+- 🏗 **TypeScript** - Type-safe JavaScript for a better development experience.  
+- ⚛ **React** - Component-based UI framework.  
+- 🎨 **ShadCN UI** - Elegant and modern UI components.  
+- 🎭 **Tailwind CSS** - Utility-first styling framework.  
+
+---
+
+## 🌍 Deployment  
+
+This project is hosted online for easy access, but all development, version control, and management are carried out through **VS Code** and industry-standard tools.  
+
+---
+
+## 🤝 Contribution & Support  
+
+We welcome **contributions, feedback, and feature suggestions**! Feel free to fork the repo, submit pull requests, or report any issues.  
+
+💡 **Let’s build something amazing together!** 🚀  
